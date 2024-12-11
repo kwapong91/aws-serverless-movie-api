@@ -1,0 +1,35 @@
+# Byte-compiled / compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables and Credentials
+.env
+
+# AWS credentials
+.aws/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.zip
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# Logs and debug files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.swp
