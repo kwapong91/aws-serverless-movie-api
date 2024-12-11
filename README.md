@@ -41,12 +41,5 @@ The serverless architecture includes:
 - Python installed on your local machine  
 - AWS CLI configured with proper credentials  
 
----
 
-### **Steps**
 
-#### **1. Clone this Repository**  
-Clone the repository and navigate to the project directory:  
-```bash
-git clone https://github.com/your-username/serverless-api-aws.git
-cd serverless-api-aws
